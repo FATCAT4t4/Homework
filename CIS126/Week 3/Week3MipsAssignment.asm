@@ -1,4 +1,4 @@
-#Jacob Sowden
+#FATCAT
 #9/18/2024
 #This program prompts the user for two numbers, then adds them together, and prints the resulting sum.
 #Registers used:
