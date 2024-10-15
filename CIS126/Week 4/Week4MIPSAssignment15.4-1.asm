@@ -1,4 +1,4 @@
-# Jacob Sowden
+# FATCAT
 # 10/01/2024
 # This program prints the floating point number 15.4
 # registers:
