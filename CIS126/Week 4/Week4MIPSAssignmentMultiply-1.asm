@@ -1,4 +1,4 @@
-# Jacob Sowden
+# FATCAT
 # 10/01/2024
 # This program multiplies two integer numbers, and prints the two input numbers and the product, separated by spaces.
 # registers:
