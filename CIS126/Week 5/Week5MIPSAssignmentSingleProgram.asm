@@ -1,4 +1,4 @@
-# Jacob Sowden
+# FATCAT
 # 10/08/2024
 # This program does several things:
 	# Adds two integers that are stored in variables and prints the sum
