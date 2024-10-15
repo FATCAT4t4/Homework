@@ -1,4 +1,4 @@
-# Jacob Sowden
+# FATCAT
 # 10/01/2024
 # This program prints subtracts two integer numbers, and prints both of them and the difference separated by spaces
 # registers:
