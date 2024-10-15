@@ -1,4 +1,4 @@
-# Jacob Sowden
+# FATCAT
 # 10/01/2024
 # This program prints the character 'P'
 # registers:
