@@ -9,7 +9,7 @@ import java.awt.Desktop;
 /**
  * Represents a quadratic equation of the form y = ax^2 + bx + c.
  *
- * @author Jacob Sowden
+ * @author FATCAT4t4
  * @version 1
  */
 public class Quadratic {
