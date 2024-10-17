@@ -26,7 +26,7 @@ public class Quadratic {
      * The constant term (c).
      */
     private double c;
-    private String appId = "6469XY-P72X963A72";
+    private String appId = "Wolfram Alpha Simple APPID";
     /**
      * Constructs a new quadratic equation with the default coefficients.
      */
