@@ -3,7 +3,7 @@ import org.apache.commons.math3.complex.Complex;
 /**
  * The main class for the quadratic equation solver. Tests all the methods.
  *
- * @author Jacob Sowden
+ * @author FATCAT4t4
  * @version 1
  */
 public class Main {
